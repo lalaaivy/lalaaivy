@@ -8,6 +8,7 @@
 ### BS Computer Science Student • Future Full-Stack Developer • Aspiring Data Scientist
 </div>
 
+---
 ## 👩‍💻 About Me
 I'm a Computer Science student with a passion for software development and building applications that solve real-world problems. I enjoy transforming ideas into intuitive, functional, and engaging digital experiences while continuously expanding my knowledge of modern technologies.
 
