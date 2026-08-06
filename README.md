@@ -10,9 +10,9 @@
 
 ---
 ## 👩‍💻 About Me
-I'm a Computer Science student with a passion for software development and building applications that solve real-world problems. I enjoy transforming ideas into intuitive, functional, and engaging digital experiences while continuously expanding my knowledge of modern technologies.
+I'm a Computer Science student with a passion for software development and building applications that solve real-world problems. I enjoy transforming ideas into intuitive, functional, and engaging digital experiences while continuously expanding my knowledge of modern technologies.⚙️
 
-I believe that every project is an opportunity to learn something new, refine my skills, and grow as a developer.
+I believe that every project is an opportunity to learn something new, refine my skills, and grow as a developer.👩
 
 ## 💻 Tech Stack
 
@@ -47,12 +47,12 @@ An educational typing game where players improve their typing speed and accuracy
 - 🐈‍⬛Git & Open Source Collaboration
 
 ## 🎯 Goals
-- Develop software that creates meaningful impact
-- Build scalable and user-friendly applications
-- Strengthen my knowledge of software engineering
-- Explore artificial intelligence and data science
-- Contribute to open-source communities
-- Never stop learning and improving
+- 🍎Develop software that creates meaningful impact
+- 🏗️Build scalable and user-friendly applications
+- 🧠Strengthen my knowledge of software engineering
+- 🤖Explore artificial intelligence and data science
+- 🏘️Contribute to open-source communities
+- 📚Never stop learning and improving
 
 ---
 <div align="center">
