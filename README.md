@@ -1,4 +1,9 @@
-## Hi there 👋
+
+<div align="center">
+  
+# Hello, World! I'm Aivy 👋
+
+</div>
 
 <!--
 **lalaaivy/lalaaivy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
