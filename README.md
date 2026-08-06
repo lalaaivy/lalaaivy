@@ -1,4 +1,6 @@
-![Header](assets/girltech.gif)
+<p align="center">
+  <img src="assets/girltech.gif" alt="Header" width="100%">
+</p>
 <div align="center">
 
 # Hello, World! I'm Aivy <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
@@ -71,7 +73,7 @@ Thanks for visiting my profile! Feel free to explore my repositories and follow 
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
 href="mailto:urbanoaivy@gmail.com">
 <img src="assets/gmail.png" width="40
-href="messageto:myfbacount">
+href="messageto:https://web.facebook.com/princessaivy.urbano">
 <img src="assets/facebook.jpg" width ="70>
 href="messageto:mydcaccount">
 <img src="assets/discord.png" width ="50>
